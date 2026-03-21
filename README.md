@@ -1,6 +1,6 @@
 ## Playa 
 
-🎓 | Segurança da Informação - Fatec
+🎓 | Segurança da Informação - Fatec - 1° Semestre - Previsão de Conclusão: 2° semestre de 2028.
 
 🧑‍💻 | Conhecimentos em: Redes, Linux e Windows.
 
