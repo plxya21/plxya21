@@ -28,9 +28,7 @@
 
 ## Certificações
 
-Cisco Networking Academy - Introduction to Cibersecurity
-
-[![Cisco Badge](https://img.shields.io/badge/Cisco-Networking%20Academy-blue?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/27087eb2-0f77-4b2e-ad97-59a6e3d78e9f/public_url)
+[![Cisco Certification](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/27087eb2-0f77-4b2e-ad97-59a6e3d78e9f/public_url)
 
 ## 📊 Estatísticas
 
