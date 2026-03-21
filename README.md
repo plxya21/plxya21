@@ -1,16 +1,25 @@
-## Hi there 👋
+## Playa 
 
-<!--
-**plxya21/plxya21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 | Segurança da Informação - Fatec
 
-Here are some ideas to get you started:
+🧑‍💻 | Conhecimentos em: Redes, Linux e Windows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔐 | Interesse em Pentest - Blue Team - Linux - Criptografia - Redes
+
+## Tecnologias e Ferramentas
+
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+## Conhecimentos
+![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge)
+
+## Certificações
+
+Cisco Networking Academy - Introduction to Cibersecurity
+
+[![Cisco Badge](https://img.shields.io/badge/Cisco-Networking%20Academy-blue?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/27087eb2-0f77-4b2e-ad97-59a6e3d78e9f/public_url)
