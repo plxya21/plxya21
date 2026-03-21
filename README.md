@@ -4,7 +4,7 @@
 
 🧑‍💻 | Conhecimentos em:
 
-- Redes (TCP/IP), DNS, HTTP/HTTPS
+- Redes (TCP/IP, DNS, HTTP/HTTPS)
 - Linux (CLI, chmod, .sh)
 - Windows (administração básica)
 
